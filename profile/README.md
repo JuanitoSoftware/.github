@@ -2,8 +2,6 @@
 
 ## Antes de utilizar, distribuir o modificar cualquier proyecto, revisa la licencia específica que lo acompaña. Este repositorio no implica por sí mismo derechos de uso sobre todo su contenido. Las condiciones varían según el programa.
 
-Cada carpeta define su propia licencia en el archivo LICENSE.txt e incluye su propio README.md con condiciones de uso específicas.
-
 ## 📜📌 Licencias
 
 - ✅ El repositorio en su conjunto no está bajo una única licencia, este repositorio no tiene una licencia general.
