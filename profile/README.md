@@ -8,7 +8,7 @@ Cada carpeta define su propia licencia en el archivo LICENSE.txt e incluye su pr
 
 - ✅ El repositorio en su conjunto no está bajo una única licencia, este repositorio no tiene una licencia general.
 - ✅ Cada proyecto o programa incluido tiene su propia licencia individual.
-- ✅ Podrás encontrar la licencia correspondiente a cada proyecto en su directorio respectivo (normalmente en un archivo LICENSE.txt, LICENSE_ES.txt, README.md o similar).
+- ✅ Podrás encontrar la licencia correspondiente a cada proyecto en su directorio respectivo (archivos LICENSE.txt, LICENSE_ES.txt y README.md).
 
 ## 🚀 Tipos de software incluidos 
 
