@@ -17,5 +17,5 @@
 🔹 Software comercial: Existen proyectos diseñados para usos comerciales, con licencias personalizadas que regulan su explotación.
 
 Si tienes dudas sobre el uso permitido de un proyecto concreto, consulta su documentación o contáctame. Este repositorio contiene múltiples programas y herramientas desarrolladas por Juanito Software.
-
+##
 ## ©️ 2025 JuanitoSoftware – Contacto: bernaldezperedaj@gmail.com
