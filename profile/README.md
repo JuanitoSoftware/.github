@@ -9,7 +9,9 @@
 ## 🚀 Tipos de software incluidos 
 
 🔹 Software libre: Algunos proyectos están bajo licencias abiertas como GNU GPL v3, ofreciendo libertad para usar, estudiar, modificar y distribuir.
+
 🔹 Software de libre uso (no comercial): Otros proyectos permiten su uso gratuito con posibles limitaciones según se indique en la licencia del propio proyecto.
+
 🔹 Software comercial: Existen proyectos diseñados para usos comerciales, con licencias personalizadas que regulan su explotación.
 
 Si tienes dudas sobre el uso permitido de un proyecto concreto, consulta su documentación o contáctame. Este repositorio contiene múltiples programas y herramientas desarrolladas por Juanito Software.
