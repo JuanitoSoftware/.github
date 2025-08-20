@@ -12,7 +12,7 @@
 
 🔹 Software libre: Algunos proyectos están bajo licencias abiertas como GNU GPL v3, ofreciendo libertad para usar, estudiar, modificar y distribuir.
 
-🔹 Software de libre uso: Otros proyectos permiten su uso gratuito con posibles limitaciones según se indique en la licencia del propio proyecto.
+🔹 Software de libre uso (no comercial): Otros proyectos permiten su uso gratuito con posibles limitaciones según se indique en la licencia del propio proyecto.
 
 🔹 Software comercial: Existen proyectos diseñados para usos comerciales, con licencias personalizadas que regulan su explotación.
 
