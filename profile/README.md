@@ -1,4 +1,4 @@
-## Repositorio Proyectos-Software – © 2025 Juanito Software
+## © JuanitoSoftware
 
 Este repositorio contiene múltiples proyectos de software desarrollados por Juanito Software. Incluye aplicaciones, utilidades y herramientas en diversos lenguajes y plataformas.
 
