@@ -8,6 +8,7 @@
 - ✅ Cada proyecto o programa incluido tiene su propia licencia individual.
 - ✅ Podrás encontrar la licencia correspondiente a cada proyecto en su directorio respectivo (archivos LICENSE.txt, LICENSE_ES.txt y README.md).
 
+##
 ## 🚀 Tipos de software incluidos 
 
 🔹 Software libre: Algunos proyectos están bajo licencias abiertas como GNU GPL v3, ofreciendo libertad para usar, estudiar, modificar y distribuir.
